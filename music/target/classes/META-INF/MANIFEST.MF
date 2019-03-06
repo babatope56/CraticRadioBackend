@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mac
+Build-Jdk: 11.0.2
+Implementation-Title: music
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.app
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/music/
+Created-By: Maven Integration for Eclipse
+
